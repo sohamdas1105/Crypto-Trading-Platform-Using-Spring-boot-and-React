@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/912476c9-e5c0-476f-9db1-279abbc99b0e)
+![Comprehensive Feature Set AI Chat Bot  Leverage our AI Chat Bot, designed to handle crypto-related queries like value of crypto and market data using Gemini API and CoinGecko API for real-time dat](https://github.com/user-attachments/assets/8e558694-9879-4cd9-b127-77b0f18b526a)
+
 
 Crypto Trading Platform Using Spring boot and React
 
