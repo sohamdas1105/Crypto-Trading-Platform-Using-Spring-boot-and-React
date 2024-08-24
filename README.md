@@ -6,7 +6,7 @@
 
 Crypto Trading Platform Using Spring boot and React
 
-Comprehensive Feature Set
+Comprehensive Feature Set:
 
 
 AI Chat Bot : Leverage our AI Chat Bot, designed to handle crypto-related queries like value of crypto and market data using Gemini API and CoinGecko API for real-time data.
